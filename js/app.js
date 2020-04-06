@@ -19,7 +19,7 @@ const showCoffees = () => {
               <div class="card">
                 <img class="card--avatar" src=${image} />
                 <h1 class="card--title">${name}</h1>
-                <a class="card--link" href="https://www.youtube.com/watch?v=QTR2tz8ZIwk&t=1m18s">Taste</a>
+                <a class="card--link" href="https://www.youtube.com/watch?v=QTR2tz8ZIwk&t=1m18s">CLICK HERE PLEASE</a>
               </div>
               `)
   )
